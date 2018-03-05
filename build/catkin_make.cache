@@ -1,0 +1,2 @@
+tourancan
+-DCATKIN_DEVEL_PREFIX=/media/xiesc/Xie Shichao/catkin_can/devel -DCMAKE_INSTALL_PREFIX=/media/xiesc/Xie Shichao/catkin_can/install -G Unix Makefiles
